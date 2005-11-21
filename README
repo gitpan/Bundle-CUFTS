@@ -1,0 +1,57 @@
+NAME
+       Bundle::CUFTS - All Perl modules required to run CUFTS.
+
+SYNOPSIS
+       "perl -MCPAN -e 'install Bundle::CUFTS'"
+
+DESCRIPTION
+       Installs everything you need to run CUFTS.
+
+CONTENTS
+
+       Bundle::Catalyst
+
+       Business::ISSN
+
+       Class::Accessor
+
+       Class::DBI
+
+       Class::DBI::AbstractSearch
+
+       Class::DBI::Plugin::CountSearch
+
+       Date::Calc
+
+       Exception::Class
+
+       Exception::Class::DBI
+
+       Getopt::Long
+
+       HTML::Entities
+
+       LWP::UserAgent
+
+       MARC::Record
+
+       MIME::Lite
+
+       Net::SMTP
+
+       SQL::Abstract
+
+       Template
+
+       Term::Readline
+
+       Text::CSV
+
+       URI::Escape
+
+AUTHOR
+       Todd Holbrook, <tholbroo@sfu.ca>
+
+LICENSE
+       This library is free software, you can redistribute it
+       and/or modify it under the same terms as Perl itself.

@@ -1,0 +1,8 @@
+CUFTS.pm
+Changes
+Makefile.PL
+MANIFEST			This list of files
+README
+t/01use.t
+t/02pod.t
+t/03podcoverage.t
