@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="38"
+   name=""
+   committed-date="2005-11-29T21:37:45.479797Z"
+   url="svn+ssh://proxy2/data/svn/CUFTS/tags/Bundle-CUFTS/0.02"
+   last-author="tholbroo"
+   kind="dir"
+   uuid="61ef7b19-5605-0410-bf70-c150524503b3"
+   revision="38"/>
+<entry
+   committed-rev="36"
+   name="CUFTS.pm"
+   text-time="2005-11-29T21:39:12.000000Z"
+   committed-date="2005-11-29T21:33:53.808219Z"
+   checksum="dc24ee6737ac69b49a42a3b1bd96b6a8"
+   last-author="tholbroo"
+   kind="file"
+   prop-time="2005-11-29T21:39:12.000000Z"/>
+<entry
+   name="t"
+   kind="dir"/>
+<entry
+   committed-rev="24"
+   name="MANIFEST"
+   text-time="2005-11-29T21:39:12.000000Z"
+   committed-date="2005-11-21T22:47:01.360229Z"
+   checksum="94fdc67cfe3bfee31e5202dc22c4b226"
+   last-author="tholbroo"
+   kind="file"
+   prop-time="2005-11-29T21:39:12.000000Z"/>
+<entry
+   committed-rev="24"
+   name="META.yml"
+   text-time="2005-11-29T21:39:12.000000Z"
+   committed-date="2005-11-21T22:47:01.360229Z"
+   checksum="00227ecb65a2593ac64c65a577e06b0d"
+   last-author="tholbroo"
+   kind="file"
+   prop-time="2005-11-29T21:39:12.000000Z"/>
+<entry
+   committed-rev="24"
+   name="Makefile.PL"
+   text-time="2005-11-29T21:39:12.000000Z"
+   committed-date="2005-11-21T22:47:01.360229Z"
+   checksum="ae577ca3a402a92cd9350e1f72ea44e5"
+   last-author="tholbroo"
+   kind="file"
+   prop-time="2005-11-29T21:39:12.000000Z"/>
+<entry
+   committed-rev="37"
+   name="Changes"
+   text-time="2005-11-29T21:39:12.000000Z"
+   committed-date="2005-11-29T21:37:18.721409Z"
+   checksum="c2af09bbc0ee726d711880cd1b6ecf2a"
+   last-author="tholbroo"
+   kind="file"
+   prop-time="2005-11-29T21:39:12.000000Z"/>
+<entry
+   committed-rev="36"
+   name="README"
+   text-time="2005-11-29T21:39:12.000000Z"
+   committed-date="2005-11-29T21:33:53.808219Z"
+   checksum="4d5c15f282de7153d02a6496172c79e2"
+   last-author="tholbroo"
+   kind="file"
+   prop-time="2005-11-29T21:39:12.000000Z"/>
+</wc-entries>
