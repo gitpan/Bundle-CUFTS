@@ -13,6 +13,8 @@ CONTENTS
 
        Business::ISSN
 
+       Catalyst::Plugin::FillInForm
+
        Class::Accessor
 
        Class::DBI
@@ -20,6 +22,8 @@ CONTENTS
        Class::DBI::AbstractSearch
 
        Class::DBI::Plugin::CountSearch
+
+       Class::DBI::Plugin::Type
 
        Class::DBI::Sweet
 
@@ -33,6 +37,8 @@ CONTENTS
 
        HTML::Entities
 
+       HTML::FillInForm
+
        LWP::UserAgent
 
        MARC::Record
@@ -41,7 +47,13 @@ CONTENTS
 
        Net::SMTP
 
+       Perl6::Export::Attrs
+
+       Pod::Escapes
+
        SQL::Abstract
+
+       String::Approx
 
        Template
 
@@ -50,6 +62,8 @@ CONTENTS
        Text::CSV
 
        URI::Escape
+
+       URI::OpenURL
 
 AUTHOR
        Todd Holbrook, <tholbroo@sfu.ca>

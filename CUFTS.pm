@@ -2,7 +2,7 @@ package Bundle::CUFTS;
 
 use strict;
 
-our $VERSION = '0.02';
+our $VERSION = '0.03';
 
 =head1 NAME
 
@@ -22,6 +22,8 @@ Bundle::Catalyst
 
 Business::ISSN
 
+Catalyst::Plugin::FillInForm
+
 Class::Accessor
 
 Class::DBI
@@ -29,6 +31,8 @@ Class::DBI
 Class::DBI::AbstractSearch
 
 Class::DBI::Plugin::CountSearch
+
+Class::DBI::Plugin::Type
 
 Class::DBI::Sweet
 
@@ -42,6 +46,8 @@ Getopt::Long
 
 HTML::Entities
 
+HTML::FillInForm
+
 LWP::UserAgent
 
 MARC::Record
@@ -50,7 +56,13 @@ MIME::Lite
 
 Net::SMTP
 
+Perl6::Export::Attrs
+
+Pod::Escapes
+
 SQL::Abstract
+
+String::Approx
 
 Template
 
@@ -59,6 +71,8 @@ Term::Readline
 Text::CSV
 
 URI::Escape
+
+URI::OpenURL
 
 =head1 AUTHOR
 
