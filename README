@@ -57,7 +57,7 @@ CONTENTS
 
        Template
 
-       Term::Readline
+       Term::ReadLine
 
        Text::CSV
 

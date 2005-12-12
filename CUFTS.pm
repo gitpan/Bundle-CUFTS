@@ -66,7 +66,7 @@ String::Approx
 
 Template
 
-Term::Readline
+Term::ReadLine
 
 Text::CSV
 
