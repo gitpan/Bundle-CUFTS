@@ -2,7 +2,7 @@ package Bundle::CUFTS;
 
 use strict;
 
-our $VERSION = '0.05';
+our $VERSION = '0.06';
 
 =head1 NAME
 
@@ -23,6 +23,10 @@ Bundle::Catalyst
 Business::ISSN
 
 Catalyst::Plugin::FillInForm
+
+Catalyst::Plugin::Session::Store::FastMmap
+
+Catalyst::Plugin::Session::State::Cookie
 
 Class::Accessor
 
