@@ -1,13 +1,5 @@
 Revision history for Perl extension Bundle::CUFTS.
 
-0.06  Wed Dec 14 2005
-        - Added new Catalyst session store/state modules
-0.05  Mon Dec 12 2005
-        - Increased version number
-
-0.04  Mon Dec 12 2005
-        - Fixed typo:  Readline -> ReadLine
-
 0.02  Tue Nov 29 2005
         - added Class::DBI::Sweet
 

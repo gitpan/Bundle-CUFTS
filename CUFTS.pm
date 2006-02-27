@@ -2,7 +2,7 @@ package Bundle::CUFTS;
 
 use strict;
 
-our $VERSION = '0.06';
+our $VERSION = '0.07';
 
 =head1 NAME
 
@@ -18,15 +18,15 @@ Installs everything you need to run CUFTS.
 
 =head1 CONTENTS
 
-Bundle::Catalyst
-
 Business::ISSN
 
-Catalyst::Plugin::FillInForm
+Catalyst::Engine::Apache
 
 Catalyst::Plugin::Session::Store::FastMmap
 
-Catalyst::Plugin::Session::State::Cookie
+Catalyst::Plugin::Static::Simple
+
+Catalyst::Plugin::FillInForm
 
 Class::Accessor
 
@@ -34,9 +34,9 @@ Class::DBI
 
 Class::DBI::AbstractSearch
 
-Class::DBI::Plugin::CountSearch
+Class::DBI::FromForm
 
-Class::DBI::Plugin::Type
+Class::DBI::Plugin::CountSearch
 
 Class::DBI::Sweet
 
@@ -50,8 +50,6 @@ Getopt::Long
 
 HTML::Entities
 
-HTML::FillInForm
-
 LWP::UserAgent
 
 MARC::Record
@@ -60,23 +58,17 @@ MIME::Lite
 
 Net::SMTP
 
-Perl6::Export::Attrs
-
-Pod::Escapes
-
 SQL::Abstract
 
-String::Approx
+Task::Catalyst
 
 Template
 
-Term::ReadLine
+Term::Readline
 
 Text::CSV
 
 URI::Escape
-
-URI::OpenURL
 
 =head1 AUTHOR
 

@@ -9,15 +9,15 @@ DESCRIPTION
 
 CONTENTS
 
-       Bundle::Catalyst
-
        Business::ISSN
+       
+       Catalyst::Engine::Apache
+
+       Catalyst::Plugin::Session::Store::FastMmap
+
+       Catalyst::Plugin::Static::Simple
 
        Catalyst::Plugin::FillInForm
-
-	   Catalyst::Plugin::Session::Store::FastMmap
-	
-	   Catalyst::Plugin::Session::State::Cookie
 
        Class::Accessor
 
@@ -25,9 +25,9 @@ CONTENTS
 
        Class::DBI::AbstractSearch
 
-       Class::DBI::Plugin::CountSearch
+       Class::DBI::FromForm
 
-       Class::DBI::Plugin::Type
+       Class::DBI::Plugin::CountSearch
 
        Class::DBI::Sweet
 
@@ -41,8 +41,6 @@ CONTENTS
 
        HTML::Entities
 
-       HTML::FillInForm
-
        LWP::UserAgent
 
        MARC::Record
@@ -51,23 +49,17 @@ CONTENTS
 
        Net::SMTP
 
-       Perl6::Export::Attrs
-
-       Pod::Escapes
-
        SQL::Abstract
 
-       String::Approx
+       Task::Catalyst
 
        Template
 
-       Term::ReadLine
+       Term::Readline
 
        Text::CSV
 
        URI::Escape
-
-       URI::OpenURL
 
 AUTHOR
        Todd Holbrook, <tholbroo@sfu.ca>
